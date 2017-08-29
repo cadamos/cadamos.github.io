@@ -23,7 +23,7 @@
       {
         "network": "linkedin",
         "username": "cadamos",
-        "url": "http://linkedin.com/in/cadamos"
+        "url": "https://www.linkedin.com/in/christine-adamos-59a751146/"
       }
     ]
   },
@@ -67,31 +67,30 @@
       "courses": [
         "***TODO***"
       ]
-    }
-  ],
-  "work": [
-    {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "institution": "Leeward Community College",
+      "area": "Digital Media",
+      "studyType": "A.A.",
+      "startDate": "2011-08-25",
+      "endDate": "2013-12-17",
+      "gpa": "3.8",
+      "courses": [
+        "***TODO***"
+      ]
+    }
+  ],
+  "internship": [
+    {
+      "company": "UH West Oahu Creative Media Team",
+      "position": "Graphic Designer",
+      "website": "",
+      "startDate": "2013-08-25",
+      "endDate": "2013- 12-17",
+      "summary": "Graphic Design Intern",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Design signage for UH West Oahu bulletins, display screens, etc.",
+        "Design invitation, tickets, and pamphelet for UH West Oahu Fall 2013 Commencement."
       ]
     }
   ],
@@ -106,19 +105,6 @@
       "highlights": [
         "Design firmware for distributed weather sensor network",
         "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
   ],
