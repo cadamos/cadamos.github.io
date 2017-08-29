@@ -65,7 +65,15 @@
       "endDate": "Present",
       "gpa": "3.5",
       "courses": [
-        "***TODO***"
+        "ICS 111", 
+        "ICS 211", 
+        "ICS 311", 
+        "ICS 141", 
+        "ICS 241", 
+        "ICS 212", 
+        "ICS 314",
+        "ICS 321", 
+        "ICS 415"
       ]
     },
     {
@@ -76,7 +84,14 @@
       "endDate": "2013-12-17",
       "gpa": "3.8",
       "courses": [
-        "***TODO***"
+        "ICS 100", 
+        "ART 113D", 
+        "ART 115D", 
+        "DMED 113", 
+        "DMED 121", 
+        "DMED 200", 
+        "DMED 293", 
+        "DMED 120"
       ]
     }
   ],
@@ -94,32 +109,12 @@
       ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    }
-  ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "title": "Chancellor's Scholarship",
+      "date": "2013 - 2014",
       "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "summary": "Scholarships awarded students with a minimum overall GPA of 3.5 at a Hawai'i public school."
     }
   ],
   "references": [
