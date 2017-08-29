@@ -2,14 +2,14 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
+title: UH West Oahu Fall 2013 Commencement Design
 permalink: projects/micromouse
-date: 2015
+date: 2013
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Graphic Design
+  - Adobe Illustrator
+  - Adobe Indesign
+summary: Designed the tickets, and program for the UH West Oahu 2013 Commencement Ceremony.
 ---
 
 <div class="ui small rounded images">
