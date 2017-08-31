@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/micromouse.jpg
 title: UH West Oahu Spring 2013 Commencement Design
-permalink: projects/micromouse
+permalink: projects/commencement
 date: 2013
 labels:
   - Graphic Design
