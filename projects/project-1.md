@@ -29,24 +29,24 @@ Below are the different program templates I've designed:
 Below are the different ticket templates I've designed:
 
 <div class="ui small rounded images">
-  <img class="ui image" src="cadamos.github.io/images/commencement_01.pdf">
-  <img class="ui image" src="cadamos.github.io/images/commencement_02.pdf">
-  <img class="ui image" src="cadamos.github.io/images/commencement_04.pdf">
+  <img class="ui image" src="../images/commencement_01.jpg">
+  <img class="ui image" src="../images/commencement_02.jpg">
+  <img class="ui image" src="../images/commencement_04.jpg">
 </div>
 
 <div class="ui small rounded images">
-  <img class="ui image" src="cadamos.github.io/images/commencement_03.pdf">
-  <img class="ui image" src="cadamos.github.io/images/commencement_06.pdf">
-  <img class="ui image" src="cadamos.github.io/images/commencement_07.pdf">
-  <img class="ui image" src="cadamos.github.io/images/commencement_08.pdf">
-  <img class="ui image" src="cadamos.github.io/images/commencement_09.pdf">
-  <img class="ui image" src="cadamos.github.io/images/commencement_10.pdf">
-  <img class="ui image" src="cadamos.github.io/images/commencement_11.pdf">
-  <img class="ui image" src="cadamos.github.io/images/commencement_12.pdf">
-  <img class="ui image" src="cadamos.github.io/images/commencement_13.pdf">
+  <img class="ui image" src="../images/commencement_03.jpg">
+  <img class="ui image" src="../images/commencement_06.jpg">
+  <img class="ui image" src="../images/commencement_07.jpg">
+  <img class="ui image" src="../images/commencement_08.jpg">
+  <img class="ui image" src="../images/commencement_09.jpg">
+  <img class="ui image" src="../images/commencement_10.jpg">
+  <img class="ui image" src="../images/commencement_11.jpg">
+  <img class="ui image" src="../images/commencement_12.jpg">
+  <img class="ui image" src="../images/commencement_13.jpg">
 </div>
 
 <div class="ui small rounded images">
-  <img class="ui image" src="cadamos.github.io/images/commencement_14.pdf">
-  <img class="ui image" src="cadamos.github.io/images/commencement_15.pdf">
+  <img class="ui image" src="../images/commencement_14.jpg">
+  <img class="ui image" src="../images/commencement_15.jpg">
 </div>
