@@ -45,14 +45,17 @@
         "C++",
         "Java",
         "Javascript",
+        "HTML/CSS"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Git/GitHub"
+        "MacOSX",
+        "Windows",
+        "Git/GitHub",
+        "Adobe Photoshop/Indesign/Illustrator"
       ]
     }
   ],
@@ -65,15 +68,13 @@
       "endDate": "Present",
       "gpa": "3.5",
       "courses": [
-        "ICS 111", 
-        "ICS 211", 
-        "ICS 311", 
-        "ICS 141", 
-        "ICS 241", 
-        "ICS 212", 
-        "ICS 314",
-        "ICS 321", 
-        "ICS 415"
+        "Intro to Computer Science I/II", 
+        "Discrete Mathematics I/II", 
+        "Algorithms", 
+        "Program Structure", 
+        "Software Engineering I",
+        "Data Storage and Retrieval", 
+        "Intro to Programming for the Web"
       ]
     },
     {
@@ -84,14 +85,14 @@
       "endDate": "2013-12-17",
       "gpa": "3.8",
       "courses": [
-        "ICS 100", 
-        "ART 113D", 
-        "ART 115D", 
-        "DMED 113", 
-        "DMED 121", 
-        "DMED 200", 
-        "DMED 293", 
-        "DMED 120"
+        "Computing Lit and Apps", 
+        "Intro to Computer Drawing", 
+        "Digital Design", 
+        "Intro to Layout Design", 
+        "Netprep Webstie Design", 
+        "Electronic Portfolio", 
+        "Practicum in Digital Media", 
+        "Netprep Web Development"
       ]
     }
   ],
