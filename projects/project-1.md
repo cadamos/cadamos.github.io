@@ -29,9 +29,9 @@ Below are the different program templates I've designed:
 Below are the different ticket templates I've designed:
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/commencement_01.jpg" height="200">
-  <img class="ui image" src="../images/commencement_02.jpg" height="200">
-  <img class="ui image" src="../images/commencement_04.jpg" height="200">
+  <img class="ui image" src="../images/commencement_01.jpg" height="100">
+  <img class="ui image" src="../images/commencement_02.jpg" height="100">
+  <img class="ui image" src="../images/commencement_04.jpg" height="100">
 </div>
 <br><br>
 <div class="ui small rounded images">
