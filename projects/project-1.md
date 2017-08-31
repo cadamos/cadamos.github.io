@@ -25,6 +25,7 @@ Below are the different program templates I've designed:
   <img class="ui image" src="../images/program_05.jpg" height="300">
   <img class="ui image" src="../images/program_07.jpg" height="300">
 </div>
+<br><br>
 
 Below are the different ticket templates I've designed:
 
