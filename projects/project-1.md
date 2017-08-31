@@ -35,18 +35,15 @@ Below are the different ticket templates I've designed:
 </div>
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/commencement_03.jpg" height ="300">
-  <img class="ui image" src="../images/commencement_06.jpg" height ="300">
-  <img class="ui image" src="../images/commencement_07.jpg" height ="300">
-  <img class="ui image" src="../images/commencement_08.jpg" height ="300">
-  <img class="ui image" src="../images/commencement_09.jpg" height ="300">
-  <img class="ui image" src="../images/commencement_10.jpg" height ="300">
-  <img class="ui image" src="../images/commencement_11.jpg" height ="300">
-  <img class="ui image" src="../images/commencement_12.jpg" height ="300">
-  <img class="ui image" src="../images/commencement_13.jpg" height ="300">
-</div>
-
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/commencement_14.jpg">
-  <img class="ui image" src="../images/commencement_15.jpg">
+  <img class="ui image" src="../images/commencement_03.jpg" height ="200">
+  <img class="ui image" src="../images/commencement_06.jpg" height ="200">
+  <img class="ui image" src="../images/commencement_07.jpg" height ="200">
+  <img class="ui image" src="../images/commencement_08.jpg" height ="200">
+  <img class="ui image" src="../images/commencement_09.jpg" height ="200">
+  <img class="ui image" src="../images/commencement_10.jpg" height ="200">
+  <img class="ui image" src="../images/commencement_11.jpg" height ="200">
+  <img class="ui image" src="../images/commencement_12.jpg" height ="200">
+  <img class="ui image" src="../images/commencement_13.jpg" height ="200">
+  <img class="ui image" src="../images/commencement_14.jpg" height ="200">
+  <img class="ui image" src="../images/commencement_15.jpg" height ="200">
 </div>
