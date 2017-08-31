@@ -19,34 +19,34 @@ This experience has helped heightened my design skills while also working with o
 Below are the different program templates I've designed:
 
 <div class="ui small rounded images">
-  <img class="ui image" src="images/program_01.pdf">
-  <img class="ui image" src="images/program_02.pdf">
-  <img class="ui image" src="images/program_03.pdf">
-  <img class="ui image" src="images/program_05.pdf">
-  <img class="ui image" src="images/program_07.pdf">
+  <img class="ui image" src="cadamos.github.io/images/program_01.pdf">
+  <img class="ui image" src="cadamos.github.io/images/program_02.pdf">
+  <img class="ui image" src="cadamos.github.io/images/program_03.pdf">
+  <img class="ui image" src="cadamos.github.io/images/program_05.pdf">
+  <img class="ui image" src="cadamos.github.io/images/program_07.pdf">
 </div>
 
 Below are the different ticket templates I've designed:
 
 <div class="ui small rounded images">
-  <img class="ui image" src="https://github.com/cadamos/cadamos.github.io/blob/master/images/commencement_01.pdf">
-  <img class="ui image" src="images/commencement_02.pdf">
-  <img class="ui image" src="images/commencement_04.pdf">
+  <img class="ui image" src="cadamos.github.io/images/commencement_01.pdf">
+  <img class="ui image" src="cadamos.github.io/images/commencement_02.pdf">
+  <img class="ui image" src="cadamos.github.io/images/commencement_04.pdf">
 </div>
 
 <div class="ui small rounded images">
-  <img class="ui image" src="images/commencement_03.pdf">
-  <img class="ui image" src="images/commencement_06.pdf">
-  <img class="ui image" src="images/commencement_07.pdf">
-  <img class="ui image" src="images/commencement_08.pdf">
-  <img class="ui image" src="images/commencement_09.pdf">
-  <img class="ui image" src="images/commencement_10.pdf">
-  <img class="ui image" src="images/commencement_11.pdf">
-  <img class="ui image" src="images/commencement_12.pdf">
-  <img class="ui image" src="images/commencement_13.pdf">
+  <img class="ui image" src="cadamos.github.io/images/commencement_03.pdf">
+  <img class="ui image" src="cadamos.github.io/images/commencement_06.pdf">
+  <img class="ui image" src="cadamos.github.io/images/commencement_07.pdf">
+  <img class="ui image" src="cadamos.github.io/images/commencement_08.pdf">
+  <img class="ui image" src="cadamos.github.io/images/commencement_09.pdf">
+  <img class="ui image" src="cadamos.github.io/images/commencement_10.pdf">
+  <img class="ui image" src="cadamos.github.io/images/commencement_11.pdf">
+  <img class="ui image" src="cadamos.github.io/images/commencement_12.pdf">
+  <img class="ui image" src="cadamos.github.io/images/commencement_13.pdf">
 </div>
 
 <div class="ui small rounded images">
-  <img class="ui image" src="images/commencement_14.pdf">
-  <img class="ui image" src="images/commencement_15.pdf">
+  <img class="ui image" src="cadamos.github.io/images/commencement_14.pdf">
+  <img class="ui image" src="cadamos.github.io/images/commencement_15.pdf">
 </div>
