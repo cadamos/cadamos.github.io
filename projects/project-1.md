@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: UH West Oahu Fall 2013 Commencement Design
+title: UH West Oahu Spring 2013 Commencement Design
 permalink: projects/micromouse
 date: 2013
 labels:
@@ -19,11 +19,9 @@ summary: Designed the tickets, and program for the UH West Oahu 2013 Commencemen
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+During my last semester at Leeward Community College, I took part in an internship at University of Hawaii West Oahu as a Graphic Design Intern. I worked with the Creative Media team on several projects, the biggest being designing the tickets and program of the Spring 2013 Commencement for their graduating class. I've used Adobe Illustrator and Adobe Indesign to create different templates for both the tickets and program, then had it run through my boss, Sharla Hanaoka, and made any necessary changes needed. 
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+This experience has helped heightened my design skills while also working with others in deciding what was the best way to approach the style of the tickets and program. I've created numerous variations of each and with Sharla's help, finalized which one worked best. It was the biggest project that I've worked on while at LCC because I was responsible for something that was going to be seen by hundreds of people for their graduation. 
 
 
 
