@@ -29,7 +29,7 @@ Below are the different program templates I've designed:
 Below are the different ticket templates I've designed:
 
 <div class="ui small rounded images">
-  <img class="ui image" src="images/commencement_01.pdf">
+  <img class="ui image" src="https://github.com/cadamos/cadamos.github.io/blob/master/images/commencement_01.pdf">
   <img class="ui image" src="images/commencement_02.pdf">
   <img class="ui image" src="images/commencement_04.pdf">
 </div>
