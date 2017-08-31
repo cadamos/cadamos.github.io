@@ -29,10 +29,13 @@
   },
   "interests": [
     {
-      "name": "Web Development", "Graphic Design"
+      "name": "Web Development"
       "keywords": [
-        "Web Development",
-        "Graphic Design"
+      ]
+    },
+        {
+      "name": "Graphic Design"
+      "keywords": [
       ]
     }
   ],
