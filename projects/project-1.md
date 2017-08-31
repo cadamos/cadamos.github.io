@@ -19,11 +19,11 @@ This experience has helped heightened my design skills while also working with o
 Below are the different program templates I've designed:
 
 <div class="ui small rounded images">
-  <img class="ui image" src="cadamos.github.io/images/program_01.pdf">
-  <img class="ui image" src="cadamos.github.io/images/program_02.pdf">
-  <img class="ui image" src="cadamos.github.io/images/program_03.pdf">
-  <img class="ui image" src="cadamos.github.io/images/program_05.pdf">
-  <img class="ui image" src="cadamos.github.io/images/program_07.pdf">
+  <img class="ui image" src="../images/program_01.jpg" height="200">
+  <img class="ui image" src="../images/program_02.jpg" height="200">
+  <img class="ui image" src="../images/program_03.jpg" height="200">
+  <img class="ui image" src="../images/program_05.jpg" height="200">
+  <img class="ui image" src="../images/program_07.jpg" height="200">
 </div>
 
 Below are the different ticket templates I've designed:
