@@ -1,60 +1,28 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
-date: 2014
+image: images/project03.png
+title: Checkbook
+permalink: projects/checkbook
+date: 2016
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Xcode
+  - C/ C++
+summary: A checkbook I made for my Program Structure class (ICS 212).
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+<img class="ui image" src="../images/codeimage.png" width="500">
+<br>
 
-To give you a flavor of the game, here is an excerpt from one run:
+For one of the projects of my Program Structure class (ICS 212), we learned how to use a linked list in C. To achieve this goal, we incorporated the use of a checkbook in our code. We had to create a linked list and use some sort of switch prompt to have the user switch through the ability of creating a check, deleting a check, and viewing the checkbook. A name, date, amount, and comment was needed for each check made along with a specific check number that would increment with each check added to the checkbook.
 
-<hr>
+<img class="ui image" src="../images/testimage.png" width="500">
+<br>
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+This class was taught online so each student was responsible for their own checkbook. There was no groupwork involved at all for this project which encouraged students to learn to solve problems on their own. Of course, if students had trouble, the professor and their peers were readily available to answer any questions about troubles they would face while tackling this project, but the code itself had to be done individually. Although I do believe that it is important to do work with each other as a group to learn flexibility, it is also important to not be reliant on other peoples work. This project, along with many other projects in our class has taught us to problem solve and come up with our own unique solutions to the situations presented.
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
+Majority of my C and C++ knowledge was built from not only this project, but this class in general. It is very important, in my opinion, to learn the fundementals of coding, and C/C++ is a good outlet in learning to create code from scratch, whilst also learning different ways to code specific things with certain programs. I've learned to code Lists in Java during my ICS 211 class prior to this one, so it was a challenge to do the same concept over a completely new platform.
 
 Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
 
