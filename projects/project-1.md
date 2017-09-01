@@ -18,6 +18,7 @@ I was completely responsible for the entirety of the design from start to finish
 
 This experience has helped heightened my design skills while also working with others in deciding what was the best way to approach the style of the tickets and program. I've created numerous variations of each and with Sharla's help, finalized which one worked best. It was the biggest project that I've worked on while at LCC because I was responsible for something that was going to be seen by hundreds of people for their graduation. 
 
+<center>
 Below are the different program templates I've designed:*
 
 <div class="ui small rounded images">
@@ -52,6 +53,6 @@ Below are the different ticket templates I've designed:*
   <img class="ui image" src="../images/commencement_14.jpg" height="300">
   <img class="ui image" src="../images/commencement_15.jpg" height="300">
 </div>
-
+</center>
 <br><br>
 <i>*you may 'right-click' + 'open image in new tab' to see full sized version of the image.</i>
