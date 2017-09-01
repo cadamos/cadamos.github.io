@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/TODO**
+image: images/project02.png
 title: Al Fresca
 permalink: projects/alfresca
 date: 2012
@@ -15,15 +15,21 @@ summary: A simple webpage design for my Netprep Website Design class (DMED 121) 
 
 As one of the final project of my Netprep Website Design class, we had to create a simple webpage design on a restaurant using Adobe Dreamweaver. We created a homepage with a simple bio on the restaraunt as shown below:
 
-TODO**
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/home.png">
+</div>
 
 Then we created a Menu page showcasing all the food and beverage items available at the Cafe, along with a short description and price of the menu item. The text was preset, however, we used HTML/CSS to design the overall look and layout of the page:
 
-TODO**
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/menu.png">
+</div>
 
 Lastly, we had to created a short testimonial page including one "review" of the restaurant:
 
-TODO**
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/testimonial.png">
+</div>
 
 I've also included an external link to their actual "website" (provided to us by the textbook), however, it no longer exists.
 
