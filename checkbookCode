@@ -1,0 +1,175 @@
+// Christine Adamos
+// The core concept for this assignment is to use a linked list in a C program.
+// October 4, 2016
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+struct check_node {
+    int checkNumber;
+    char date[20];
+    char to[40];
+    double amount;
+    char description[100];
+    struct check_node *next;
+};
+
+struct check_node *checkbook = NULL;
+struct check_node *last = NULL;
+
+void addCheck();
+void deleteCheck(int i);
+void displayCheck(struct check_node *check);
+void displayAll();
+
+int main() {
+    
+    int k, n;
+    printf("WELCOME TO YOUR CHECKBOOK! \n");
+    
+    while (k != 4) {
+        
+        printf("\n");
+        printf("I WANT TO... \n");
+        printf("1: Add a check\n");
+        printf("2: Delete a check\n");
+        printf("3: Display checkbook\n");
+        printf("4: Quit\n");
+        printf("Please select a number: ");
+        scanf("%d", &k);
+        
+        switch (k) {
+            case 1:
+                printf("\n");
+                addCheck();
+                break;
+                
+            case 2:
+                printf("\n");
+                displayAll();
+                printf("\n");
+                printf("Please select the check number you would like to delete: ");
+                scanf("%d", &n);
+                printf("\n");
+                deleteCheck(n);
+                break;
+                
+            case 3:
+                printf("\n");
+                displayAll();
+                break;
+                
+            case 4:
+                printf("\n");
+                printf("THANK YOU!\n");
+                return 0;
+        }
+    }
+}
+
+void addCheck() {
+    
+    struct check_node *newCheck = (struct check_node*)malloc(sizeof(struct check_node));
+    
+    if (last == NULL) {
+        newCheck->checkNumber = 1;
+    }
+    else {
+        newCheck->checkNumber = last->checkNumber + 1;
+    }
+    
+    printf("Enter date (mm/dd/yyyy): ");
+    scanf("%s", newCheck->date);
+    printf("Enter name of recipient: ");
+    scanf(" %[^\n]s", newCheck->to);
+    printf("Enter amount: $");
+    scanf("%lf", &newCheck->amount);
+    printf("Add comments: ");
+    scanf(" %[^\n]s", newCheck->description);
+    newCheck->next = NULL;
+    
+    displayCheck(newCheck);
+    
+    if (checkbook == NULL) {
+        checkbook = newCheck;
+        last = newCheck;
+    }
+    else {
+        last->next = newCheck;
+        last = newCheck;
+    }
+}
+
+void deleteCheck(int i) {
+    
+    struct check_node *tmp = checkbook;
+    struct check_node *del = NULL;
+    
+    if (tmp == NULL) {
+        printf("Check not found!\n");
+    }
+    else if (tmp->checkNumber == i) {
+        del = tmp;
+        checkbook = tmp->next;
+        printf("Check %d was deleted.\n", i);
+    }
+    else {
+        while (tmp != NULL) {
+            if (tmp->next == NULL) {
+                printf("Check %d not found in the list.\n", i);
+                break;
+            }
+            else if (tmp->next->checkNumber == i) {
+                del = tmp->next;
+                tmp->next = tmp->next->next;
+                del->next = NULL;
+                free(del);
+                del = NULL;
+                printf("Check %d was deleted.\n", i);
+                break;
+            }
+            else {
+                tmp = tmp->next;
+            }
+        }
+    }
+}
+
+void displayCheck(struct check_node *check) {
+    
+    printf("\n");
+    printf("-------------------------------------------------\n");
+    printf("YOU'VE CREATED A CHECK! INFORMATION IS AS FOLLOWS\n");
+    printf("-------------------------------------------------\n");
+    printf("CHECK #: %d\n", check->checkNumber);
+    printf("Date created: %s\n", check->date);
+    printf("Recipient: %s\n", check->to);
+    printf("Amount: $%.2f\n", check->amount);
+    printf("Comments: %s\n", check->description);
+    printf("-------------------------------------------------\n");
+    printf("\n");
+    
+}
+
+void displayAll() {
+    
+    struct check_node *current = checkbook;
+    
+    if (current == NULL) {
+        printf("Checkbook is empty. \n");
+    }
+    else {
+        printf("Printing checkbook...\n");
+        while (current != NULL) {
+            printf("\n");
+            printf("CHECK #: %d\n", current->checkNumber);
+            printf("Date created: %s\n", current->date);
+            printf("Recipient: %s\n", current->to);
+            printf("Amount: $%.2f\n", current->amount);
+            printf("Comments: %s\n", current->description);
+            printf("\n");
+            current = current->next;
+        }
+    }
+}
