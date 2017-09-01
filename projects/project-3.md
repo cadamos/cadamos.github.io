@@ -12,8 +12,7 @@ summary: A checkbook I made for my Program Structure class (ICS 212).
 ---
 
 
-<img class="ui image" src="../images/codeimage.png" width ="200">
-<img class="ui image" src="../images/testimage.png" width="200">
+<img class="ui image" src="../images/codeimage.png" width ="250"><img class="ui image" src="../images/testimage.png" width="250">
 <br>
 
 For one of the projects of my Program Structure class (ICS 212), we learned how to use a linked list in C. To achieve this goal, we incorporated the use of a checkbook in our code. We had to create a linked list and use some sort of switch prompt to have the user switch through the ability of creating a check, deleting a check, and viewing the checkbook. A name, date, amount, and comment was needed for each check made along with a specific check number that would increment with each check added to the checkbook.
