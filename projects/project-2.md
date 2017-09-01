@@ -15,15 +15,15 @@ summary: A simple webpage design for my Netprep Website Design class (DMED 121) 
 
 As one of the final project of my Netprep Website Design class, we had to create a simple webpage design on a restaurant using Adobe Dreamweaver. We created a homepage with a simple bio on the restaraunt as shown below:
 <br>
-<img class="ui image" src="../images/index.png" width="500">
+<img class="ui image" src="../images/index.png">
 <br>
 Then we created a Menu page showcasing all the food and beverage items available at the Cafe, along with a short description and price of the menu item. The text was preset, however, we used HTML/CSS to design the overall look and layout of the page:
 <br>
-<img class="ui image" src="../images/menu.png" width="500">
+<img class="ui image" src="../images/menu.png">
 <br>
 Lastly, we had to created a short testimonial page including one "review" of the restaurant:
 <br>
-<img class="ui image" src="../images/testimonial.png" width="500">
+<img class="ui image" src="../images/testimonial.png">
 <br>
 I've also included an external link to their actual "website" (provided to us by the textbook), however, it no longer exists.
 
