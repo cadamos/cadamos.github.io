@@ -1,24 +1,32 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
-date: 2015
+image: images/TODO**
+title: Al Fresca
+permalink: projects/alfresca
+date: 2012
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - HTML
+  - CSS
+  - Adobe Dreamweaver
+  
+summary: A simple webpage design for my Netprep Website Design class (DMED 121) on a faux restaurant menu.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+As one of the final project of my Netprep Website Design class, we had to create a simple webpage design on a restaurant using Adobe Dreamweaver. We created a homepage with a simple bio on the restaraunt as shown below:
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+TODO**
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+Then we created a Menu page showcasing all the food and beverage items available at the Cafe, along with a short description and price of the menu item. The text was preset, however, we used HTML/CSS to design the overall look and layout of the page:
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+TODO**
+
+Lastly, we had to created a short testimonial page including one "review" of the restaurant:
+
+TODO**
+
+I've also included an external link to their actual "website" (provided to us by the textbook), however, it no longer exists.
+
+This project has helped me strengthen my HTML/CSS abilities. My DMED 121 class's primary focus was on developing our coding skills with focus on the design aspect of it. I've learned basic HTML/CSS formatting and incorporated it into Adobe Dreamweaver, also learning how to publish it onto the web. 
+
+The website for the page can be found <a href ="http://www2.hawaii.edu/~cadamos/dmed121/project_05/testimonials.html">here</a>.
