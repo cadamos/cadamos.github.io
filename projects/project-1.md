@@ -21,20 +21,20 @@ This experience has helped heightened my design skills while also working with o
 Below are the different program templates I've designed:*
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/program_01.jpg" height="300">
-  <img class="ui image" src="../images/program_02.jpg" height="300">
-  <img class="ui image" src="../images/program_03.jpg" height="300">
-  <img class="ui image" src="../images/program_05.jpg" height="300">
-  <img class="ui image" src="../images/program_07.jpg" height="300">
+  <img class="ui image" src="../images/program_01.jpg" height="500">
+  <img class="ui image" src="../images/program_02.jpg" height="500">
+  <img class="ui image" src="../images/program_03.jpg" height="500">
+  <img class="ui image" src="../images/program_05.jpg" height="500">
+  <img class="ui image" src="../images/program_07.jpg" height="500">
 </div>
 <br><br>
 
 Below are the different ticket templates I've designed:*
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/commencement_01.jpg" height="300">
-  <img class="ui image" src="../images/commencement_02.jpg" height="300">
-  <img class="ui image" src="../images/commencement_04.jpg" height="300">
+  <img class="ui image" src="../images/commencement_01.jpg" height="500">
+  <img class="ui image" src="../images/commencement_02.jpg" height="500">
+  <img class="ui image" src="../images/commencement_04.jpg" height="500">
 </div>
 <br><br>
 <div class="ui small rounded images">
