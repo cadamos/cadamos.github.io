@@ -24,5 +24,5 @@ This class was taught online so each student was responsible for their own check
 
 Majority of my C and C++ knowledge was built from not only this project, but this class in general. It is very important, in my opinion, to learn the fundementals of coding, and C/C++ is a good outlet in learning to create code from scratch, whilst also learning different ways to code specific things with certain programs. I've learned to code Lists in Java during my ICS 211 class prior to this one, so it was a challenge to do the same concept over a completely new platform.
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://github.com/cadamos/cadamos.github.io/blob/master/checkbookCode"><i class="large github icon "></i>code</a>
 
