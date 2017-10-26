@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: **TODO**
+title: TODO
 date: 2017-10-26
 labels:
   - Meteor
@@ -9,4 +9,4 @@ labels:
   - Software Engineering
 ---
 
-**TODO**
+<p>TODO</p>
