@@ -17,4 +17,8 @@ summary: A possibly prospective app idea that allows students to vote for vendin
 <br>
 TEST
 
-Source: <a href="https://vendyawards.github.io"><i class="large github icon"></i>View Home Page</a> | <a href ="https://github.com/vendyawards/vendyawards"><i class="large github icon"></i>View Code</a>
+<div class="ui large buttons">
+  <button class="ui button" href="https://vendyawards.github.io">View Home Page</button>
+  <div class="or"></div>
+  <button class="ui button" href="https://github.com/vendyawards/vendyawards">View Source Code</button>
+</div>
