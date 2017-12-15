@@ -55,7 +55,7 @@ Vendy Awards is a Meteor application providing UH students with an opportunity t
 This project helped us develop our skills while also enabling us to work in a group. This aspect of the project was very important because it showed the difficulties that could arise when trying to create one thing using different ideas and concepts. It strengthened our abilities to work with other people as well as encouraging us to be flexible to other people's idea, which is very helpful in the long run when developers must work around client ideas and designs.
 </p>
 
-</p>
+<p>
 For more information, visit the links provided below.
 </p>
 
