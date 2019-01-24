@@ -13,7 +13,7 @@ summary: A possibly prospective app idea that allows students to vote for what t
 ---
 
 <p>
-  <a href="https://vendyawards.meteorapp.com/">Vendy Awards</a> is a faux app that a couple of my classmates and I had developed for our Software Engineering class. We used meteor to deploy it onto galaxy, making it accessible for those authorized with a UH CAS login account to access and test out the features of our app. We used IntelliJ alongside Meteor to develop the backend and front end of each page of the app and also made it available on android mobile.
+  Vendy Awards is a faux app that a couple of my classmates and I had developed for our Software Engineering class. We used meteor to deploy it onto galaxy, making it accessible for those authorized with a UH CAS login account to access and test out the features of our app. We used IntelliJ alongside Meteor to develop the backend and front end of each page of the app and also made it available on android mobile.
 </p>
 
 <h1>About Vendy Awards</h1>
