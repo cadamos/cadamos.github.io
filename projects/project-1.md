@@ -52,6 +52,3 @@ Below are the different ticket templates I've designed:*
   <img class="ui image" src="../images/commencement_14.jpg" height="300">
   <img class="ui image" src="../images/commencement_15.jpg" height="300">
 </div>
-
-<br><br>
-<i>*you may 'right-click' + 'open image in new tab' to see full sized version of the image.</i>
