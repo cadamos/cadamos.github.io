@@ -32,5 +32,3 @@ The main focus of this project was to get practice using Adobe Dreamweaver, an A
 Each student was responsible for their own website demonstrating a certain company/production. We each were put in groups and assigned a specific Cafe, Restaurant, or Store. However, each student was responsible for his or her own page and choice in CSS design. By the end of the week, there would be numerous web pages on the same Cafe, Restaurant, or Store, but each design differed from one another, showcasing every student's individual talent in HTML/CSS.
 
 This project has helped me strengthen my HTML/CSS abilities. My DMED 121 class's primary focus was on developing our coding skills with focus on the design aspect of it. I've learned basic HTML/CSS formatting and incorporated it into Adobe Dreamweaver, also learning how to publish it onto the web. I love working with CSS because of the focus on the artistic aspect of coding, which is where my line of interest in mainly located, so I enjoyed learning the ropes from this project.
-
-The website for the page can be found <a href ="http://www2.hawaii.edu/~cadamos/dmed121/project_05/index.html">here</a>.
